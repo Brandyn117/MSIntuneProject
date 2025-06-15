@@ -31,10 +31,21 @@ Using a Microsoft 365 Business Premium trial, I enrolled a Windows 10 VM into In
 ### 🔹 1. Setup & Environment
 - Registered a free M365 Business Premium trial
 - Created a test user and assigned an Intune license
+  <img src="images/UserSetup.png" alt="img" width="800">
 - Verified MDM auto-enrollment settings
 
+### 🔹 2. Intune Policy Creation
 
-
+#### ✅ Windows Update Ring
+- Enabled automatic upgrade to Windows 11
+- Configured update behavior (7-day deadline, 1-day grace)
+- Assigned to **All Devices**
+<br>
+<b>Allow Microsoft Product Updates</b> - This ensures updates for Microsoft apps like Office, Edge, etc., are delivered along with Windows Updates
+<b>Allow Windows driver</b> - Allows Windows Update to install updated hardware drivers <br>
+<b> Quality update deferral period & Feature update deferral period</b> - We don't want any delays so I set it to 0.
+<img src="images/RingSettings1.png" alt="img" width="600">
+<br>
 
 
 
