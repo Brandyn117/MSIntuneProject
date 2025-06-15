@@ -91,5 +91,5 @@ To fix this I had to set WIP user scope to none since I’m not using any WIP po
 <img src="images/VMClientSetup3.png" alt="img" width="600">
 
 #### Device Enrollment Confirmation
-<img src="images/VMClientSetup4.png" alt="img" width="600">
+<img src="images/VMClientSetup4.png" alt="img">
 
