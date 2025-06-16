@@ -86,6 +86,7 @@ However, at this step I encountered an error:
 <img src="images/VMClientSetupError.png" alt="img" width="600">
 
 To fix this I had to set WIP user scope to none since I’m not using any WIP policies it didn’t have any functional impact on me.
+<br>
 <img src="images/VMClientSetupErrorFix.png" alt="img" width="600">
 
 <img src="images/VMClientSetup3.png" alt="img" width="600">
