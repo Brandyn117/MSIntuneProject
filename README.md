@@ -1,7 +1,7 @@
 # Windows 11 Upgrade Simulation Using Microsoft Intune
 
 ## 🛠️ Overview
-This project simulates an enterprise-scale upgrade of Windows 10 devices to Windows 11 using Microsoft Intune and Endpoint Manager. The goal was to mirror what a company like LA Care Health Plan would perform during a real-world upgrade of 3,900 managed workstations.
+This project simulates an enterprise-scale upgrade of Windows 10 devices to Windows 11 using Microsoft Intune and Endpoint Manager. The goal was to mirror what an organization like LA Care Health Plan would most likely perform during a real-world upgrade of 3,900 managed workstations.
 
 Using a Microsoft 365 Business Premium trial, I enrolled a Windows 10 VM into Intune, assigned a Windows Update Ring to upgrade to Windows 11, and applied a compliance policy to enforce enterprise security standards.
 
