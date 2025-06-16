@@ -13,7 +13,6 @@ Using a Microsoft 365 Business Premium trial, I enrolled a Windows 10 VM into In
 - Create and assign a Windows 11 Compliance Policy
 - Enroll a Windows 10 virtual machine into Intune
 - Validate policy deployment, compliance status, and device registration
-- Document the entire process for resume and portfolio use
 
 ---
 
