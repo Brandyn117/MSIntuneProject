@@ -22,7 +22,6 @@ Using a Microsoft 365 Business Premium trial, I enrolled a Windows 10 VM into In
 - Microsoft Endpoint Manager (Intune)
 - Azure Active Directory (AAD)
 - Windows 10 Virtual Machine (VirtualBox)
-- Windows Update for Business (WUfB)
 
 ---
 
